@@ -3,8 +3,12 @@
  */
 
 var hay_aeon_exclusions = [
+    "ANNEX HAY",
     "HAY ANNEX TEMP",
     "HAY ARCHIVES MANUSCRIPTS",
+    "HAY at ROCK",
     "HAY COURSE RESERVES",
-    "HAY MANUSCRIPTS"
+    "HAY MANUSCRIPTS",
+    "HAY OFF SITE",
+    "STORAGE (HAY INTERIM)"
     ];
