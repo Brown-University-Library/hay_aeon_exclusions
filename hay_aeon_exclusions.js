@@ -8,7 +8,6 @@ var hay_aeon_exclusions = [
     "HAY ARCHIVES MANUSCRIPTS",
     "HAY at ROCK",
     "HAY COURSE RESERVES",
-    "HAY MANUSCRIPTS",
     "HAY OFF SITE",
     "STORAGE (HAY INTERIM)"
     ];
